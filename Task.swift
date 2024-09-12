@@ -8,5 +8,5 @@
 import Foundation
 
 struct Task:Hashable {
-    var numberOfTask: String
+    var nameOfTask: String
 }

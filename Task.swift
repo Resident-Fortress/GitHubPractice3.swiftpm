@@ -7,6 +7,6 @@
 
 import Foundation
 
-struct nameOfTaTasksk:Hashable {
+struct Task:Hashable {
     var numberOfTask: String
 }
